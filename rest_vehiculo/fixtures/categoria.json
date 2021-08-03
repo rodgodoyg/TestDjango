@@ -1,0 +1,30 @@
+[
+    {
+      "model": "core.categoria",
+      "pk": 1,
+      "fields": {
+        "nombreCategoria": "auto"
+      }
+    },
+    {
+      "model": "core.categoria",
+      "pk": 2,
+      "fields": {
+        "nombreCategoria": "camioneta"
+      }
+    },
+    {
+      "model": "core.categoria",
+      "pk": 3,
+      "fields": {
+        "nombreCategoria": "camión"
+      }
+    },
+    {
+      "model": "core.categoria",
+      "pk": 4,
+      "fields": {
+        "nombreCategoria": "minibus"
+      }
+    }
+  ]
